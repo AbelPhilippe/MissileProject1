@@ -6,3 +6,16 @@
 </p>
 
 <img width="984" height="656" alt="image" src="https://github.com/user-attachments/assets/631b5530-0c13-4655-ae55-0fcae964a16b" />
+
+<h2 align=center>
+  About:
+</h2>
+<p>
+  This repository was created to host missile simulation projects.
+  The simulations are based on OpenGL, matplotlib, and CADAC.
+</p>
+
+1. Surface-air
+2. Surface-air-surface
+3. Air-to-air
+4. Air-to-surface
