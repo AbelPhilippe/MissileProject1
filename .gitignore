@@ -11,6 +11,11 @@
 *.sln.docstates
 *.env
 
+# Venv
+venv/
+.venv/
+env/
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -416,9 +421,3 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
-
-# Venv
-# Ignore virtual environments
-venv/
-.venv/
-env/
