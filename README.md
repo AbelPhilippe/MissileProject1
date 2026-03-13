@@ -10,9 +10,10 @@
 <h2 align=center>
   About:
 </h2>
+
 <p>
   This repository was created to host missile simulation projects.
-  The simulations are based on OpenGL, matplotlib, and CADAC.
+  The simulations are based on Python, with matplotlib, scipy.
 </p>
 
 1. Surface-air
