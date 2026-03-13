@@ -46,7 +46,7 @@ rho = 1.225                             # air density (kg/m³)
 
 Cd = 0.5                                # drag coefficient
 
-A = 0.025                               # frontal area (m²)
+A = 0.005                               # frontal area (m²)
 
 velocity = np.linalg.norm(vel)          # speed magnitude
 
