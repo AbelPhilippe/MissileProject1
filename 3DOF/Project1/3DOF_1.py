@@ -12,6 +12,8 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import scipy as sp
 
+from scipy import integrate
+
 # ==============================================================================
 #                              Physical parameters
 # ==============================================================================
