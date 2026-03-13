@@ -416,3 +416,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Venv
+# Ignore virtual environments
+venv/
+.venv/
+env/
