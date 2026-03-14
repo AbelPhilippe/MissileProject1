@@ -2,7 +2,7 @@
   Missile Guidance: Project 1
 </h1>
 <h2 align=center>
-  Mission: Sprint ABM Interception
+  Mission: Sprint ABM - Interception
 </h2>
 
 ## Mission Overview
