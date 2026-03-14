@@ -9,10 +9,18 @@
   About:
 </h2>
 
+<p align=center>
+  <img src="images/SovieticMissile.jpg">
+</p>
+
 <p>
-  This repository was created to host missile simulation projects.
+  This repository was created to host missile simulation project.
   The simulations are based on Python, with matplotlib, scipy.
 </p>
+
+<h2 align=center>
+  Mission:
+</h2>
 
 1. Surface-air
 2. Surface-air-surface
