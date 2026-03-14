@@ -6,7 +6,7 @@
 
 Early-warning radar systems have detected the launch of a hostile **intercontinental ballistic missile (ICBM)** originating from the territory of the **Soviet Union**. The missile has entered its ballistic trajectory and is currently traveling toward the United States at hypersonic velocity.
 
-Tracking data from strategic radar installations indicates that the incoming missile is traveling at approximately **7.2 km/s (Mach 21)** during its midcourse phase. Based on current trajectory calculations, the warhead is projected to reenter the atmosphere within minutes and continue toward its target area.
+Tracking data from strategic radar installations indicates that the incoming missile is traveling at approximately **7.2 km/s (Mach 21)** during its midcourse phase.
 
 <p align=center>
   <img src="images/SovieticMissile.jpg">
