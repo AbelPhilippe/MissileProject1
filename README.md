@@ -17,7 +17,7 @@ To defend against the incoming threat, the U.S. deploys the **Sprint anti-ballis
   <img src="images/Sprint_test_stand_featured.png">
 <p>
 
-The objective of the simulation is to model the interception dynamics between the incoming ballistic missile and the defensive interceptor. The Sprint missile must rapidly launch, accelerate to hypersonic speed, and reach the predicted intercept point before the hostile warhead reaches its target.
+The Sprint missile must rapidly launch, accelerate to hypersonic speed, and reach the predicted intercept point before the hostile warhead reaches its target.
 
 This simulation focuses on the physical dynamics of missile flight, including:
 
