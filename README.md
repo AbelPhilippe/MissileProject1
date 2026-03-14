@@ -19,6 +19,14 @@ Tracking data from strategic radar installations indicates that the incoming mis
 * **Trajectory type:** Intercontinental ballistic trajectory
 * **Projected impact window:** < 20 minutes
 
+At **03:20 UTC**, following confirmation of the hostile launch, strategic defense systems initiated a midcourse interception attempt. A long-range interceptor was deployed with the objective of neutralizing the incoming warhead while it was still traveling through space during the midcourse phase of its ballistic trajectory. The **Spartan** interceptor successfully launched and ascended toward the predicted intercept corridor.
+
+<p align=center>
+  <img src="images/lim-49a.jpg">
+</p>
+
+However, as the engagement progressed, tracking systems detected irregularities in the target signature.
+
 
 To defend against the incoming threat, the **United States**. deploys the **Sprint anti-ballistic missile (ABM)** interceptor.
 
@@ -26,7 +34,10 @@ To defend against the incoming threat, the **United States**. deploys the **Spri
   <img src="images/Sprint_test_stand_featured.png">
 <p>
 
-The Sprint missile must rapidly launch, accelerate to hypersonic speed, and reach the predicted intercept point before the hostile warhead reaches its target.
+
+
+The Sprint missile must rapidly launch, accelerate to hypersonic speed, and reach the predicted intercept point before the hostile warhead reaches its target. The Missile carries the **W66 nuclear warhead**, an enhanced radiation nuclear warhead designed specifically for anti-ballistic missile defense.
+
 
 This simulation focuses on the physical dynamics of missile flight, including:
 
