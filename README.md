@@ -6,18 +6,16 @@
 </h2>
 
 ## Mission Overview
-<p>
-  This project simulates a Cold War–era ballistic missile defense scenario. In this mission, a hostile intercontinental ballistic missile launched from the **Soviet Union** is detected traveling toward the **United States**.
-</p>
+
+This project simulates a Cold War–era ballistic missile defense scenario. In this mission, a hostile intercontinental ballistic missile launched from the **Soviet Union** is detected traveling toward the **United States**.
 
 <p align=center>
   <img src="images/SovieticMissile.jpg">
 </p>
 
 
-<p>
-  To defend against the incoming threat, the U.S. deploys the **Sprint anti-ballistic missile (ABM)** interceptor.
-</p>
+To defend against the incoming threat, the U.S. deploys the **Sprint anti-ballistic missile (ABM)** interceptor.
+
 <p align=center>
   <img src="images/Sprint_test_stand_featured.png">
 <p>
