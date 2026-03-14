@@ -25,7 +25,7 @@ At **03:20 UTC**, following confirmation of the hostile launch, strategic defens
   <img src="images/lim-49a.jpg">
 </p>
 
-However, as the engagement progressed, tracking systems detected irregularities in the target signature.
+However, as the engagement progressed, tracking systems detected irregularities in the target's signature. The interception failed. At **03:26 UTC**, the main hostile reentry vehicle remained intact and continued its ballistic trajectory toward the United States. With the mid-course interception attempt unsuccessful, the warhead began descending toward the upper atmosphere. Command systems immediately recalculated the trajectory and issued an alert to activate the **terminal defense layer**.
 
 
 To defend against the incoming threat, the **United States**. deploys the **Sprint anti-ballistic missile (ABM)** interceptor.
