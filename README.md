@@ -34,6 +34,14 @@ To defend against the incoming threat, the **United States**. deploys the **Spri
   <img src="images/Sprint_test_stand_featured.png">
 <p>
 
+| Parameter     | Value                 |
+| ------------- | --------------------- |
+| Length        | ~8.2 meters           |
+| Diameter      | ~1.35 meters          |
+| Launch mass   | ~3,500 kg             |
+| Stages        | 2-stage solid rocket  |
+| Maximum speed | Mach 10+ (≈ 3–4 km/s) |
+| Acceleration  | up to ~100 g          |
 
 
 The Sprint missile must rapidly launch, accelerate to hypersonic speed, and reach the predicted intercept point before the hostile warhead reaches its target. The Missile carries the **W66 nuclear warhead**, an enhanced radiation nuclear warhead designed specifically for anti-ballistic missile defense.
@@ -61,17 +69,6 @@ Sprint missiles were developed in the 1960s as part of U.S. missile defense syst
 * **Role:** Terminal-phase anti-ballistic missile interceptor
 * **Country of origin:** United States
 * **Program:** Safeguard Program
-
-### Physical Specifications
-
-| Parameter     | Value                 |
-| ------------- | --------------------- |
-| Length        | ~8.2 meters           |
-| Diameter      | ~1.35 meters          |
-| Launch mass   | ~3,500 kg             |
-| Stages        | 2-stage solid rocket  |
-| Maximum speed | Mach 10+ (≈ 3–4 km/s) |
-| Acceleration  | up to ~100 g          |
 
 Sprint missiles were designed to accelerate extremely quickly immediately after launch in order to reach intercept altitude within seconds.
 
